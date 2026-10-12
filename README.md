@@ -1,2 +1,0 @@
-# kipreadikobnp
-service en ligne
